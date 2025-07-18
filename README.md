@@ -23,10 +23,9 @@ With a strong foundation in full-stack development and AI, I enjoy solving real-
 **Languages:** C, C++, Java, JavaScript, Python, HTML, CSS  
 **Frameworks & Libraries:** Node.js, Express.js, Next.js, React, Tailwind CSS, TensorFlow  
 **Database:** MongoDB, MySQL, SQL, Apache Spark, SAS  
-**Others:** REST APIs, JWT, Git, GitHub, LangChain, OpenAI API  
-**CS Concepts:** DSA, OOP, DBMS, OS, CN  
-
----
+**Others:** REST APIs, GitHub 
+ 
+ --
 
 ## 🏆 Achievements
 
@@ -35,13 +34,6 @@ With a strong foundation in full-stack development and AI, I enjoy solving real-
 - 🔥 Solved **500+ DSA problems** on LeetCode  
 - ⭐ **5-Star** Problem Solver on HackerRank  
 - 🎤 Led content strategy for 6+ major college events as **Content Head – E-Cell, PSIT**
-
----
-
-## 📈 GitHub Stats
-
-![Snehal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsnehal-2004&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnehal-2004&layout=compact&theme=default)
 
 ---
 
