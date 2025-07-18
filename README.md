@@ -11,7 +11,7 @@ I’m currently pursuing my **B.Tech in Artificial Intelligence and Data Science
 With a strong foundation in full-stack development and AI, I enjoy solving real-world problems through innovative, scalable, and efficient solutions.
 
 - 🔭 Exploring AI, Open Source, and impactful hackathons  
-- 🌱 Learning **LangChain**, **TensorFlow**, and **Advanced DSA**  
+- 🌱 Learning **TensorFlow**, and **Advanced DSA**  
 - 🧠 Solved **500+ problems** on LeetCode | **5⭐️ HackerRank** (Problem Solving)  
 - 👥 Former **Content Head** at E-Cell, PSIT (2024–25)  
 - ✉️ Reach me: [snehal.vishwakarma2004@gmail.com](mailto:snehal.vishwakarma2004@gmail.com)
